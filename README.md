@@ -1,2 +1,2 @@
 # django rest framework
-### This project is not personal and is taken from mongard.ir
+### it's taken from mongard.ir
